@@ -1,0 +1,5 @@
+ErrorDocument 400 http://https://robbyissus.ml/errorasd/
+ErrorDocument 401 http://https://robbyissus.ml/errorasd/
+ErrorDocument 403 http://https://robbyissus.ml/errorasd/
+ErrorDocument 404 http://https://robbyissus.ml/errorasd/
+ErrorDocument 503 http://https://robbyissus.ml/errorasd/
